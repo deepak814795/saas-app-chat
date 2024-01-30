@@ -41,7 +41,12 @@ Break down language barriers and connect with people from around the world. Our 
 ![image](https://github.com/deepak814795/saas-app-chat/assets/91387970/b2b8fb7c-15f5-411a-bdba-a7d26ac008ff)
 
 **Pricing Page**
+- Free User has access to only free features and has to pay to unlock all features.
 ![Web capture_31-1-2024_04439_saas-app-chat-deepak-kushwaha vercel app](https://github.com/deepak814795/saas-app-chat/assets/91387970/020aa31d-56dd-471a-bdb0-77e16f82c3e1)
+
+**PRO Vs FREE User**
+- In Free we have only two supported languages and Pro supports multiple languages.
+![imgonline-com-ua-twotoone-36hRmU5BQb](https://github.com/deepak814795/saas-app-chat/assets/91387970/098d7ccf-7a3a-432b-a429-77dce05c26c5)
 
 **Stripe Payment to Purchase Pro Plan**
 - **Test Card Number**: 4242 4242 4242 4242
