@@ -62,7 +62,7 @@ Break down language barriers and connect with people from around the world. Our 
 **Add user to chat and get a sharable link**
 - ![Screenshot (891)](https://github.com/deepak814795/saas-app-chat/assets/91387970/45716422-81c2-4a73-a873-f77e9962b910)
 
-**Chat**
+**Chat with real-time translation of messages**
 - ![new](https://github.com/deepak814795/saas-app-chat/assets/91387970/f79a4569-f964-45ba-9756-adfb5a9301ab)
 
 ## Thank you for visiting! If you have any questions or suggestions, feel free to contact!!
