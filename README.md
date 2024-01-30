@@ -38,15 +38,18 @@ Break down language barriers and connect with people from around the world. Our 
 
 ## Screenshots
 **Homepage**
-![image](https://github.com/deepak814795/saas-app-chat/assets/91387970/b2b8fb7c-15f5-411a-bdba-a7d26ac008ff)
+- ![image](https://github.com/deepak814795/saas-app-chat/assets/91387970/b2b8fb7c-15f5-411a-bdba-a7d26ac008ff)
 
 **Pricing Page**
 - Free User has access to only free features and has to pay to unlock all features.
-![Web capture_31-1-2024_04439_saas-app-chat-deepak-kushwaha vercel app](https://github.com/deepak814795/saas-app-chat/assets/91387970/020aa31d-56dd-471a-bdb0-77e16f82c3e1)
+- ![Web capture_31-1-2024_04439_saas-app-chat-deepak-kushwaha vercel app](https://github.com/deepak814795/saas-app-chat/assets/91387970/020aa31d-56dd-471a-bdb0-77e16f82c3e1)
 
 **PRO Vs FREE User**
-- In Free we have only two supported languages and Pro supports multiple languages.
-![imgonline-com-ua-twotoone-36hRmU5BQb](https://github.com/deepak814795/saas-app-chat/assets/91387970/098d7ccf-7a3a-432b-a429-77dce05c26c5)
+- PRO plan supports multiple languages while free supports only two languages.
+- ![imgonline-com-ua-twotoone-36hRmU5BQb](https://github.com/deepak814795/saas-app-chat/assets/91387970/098d7ccf-7a3a-432b-a429-77dce05c26c5)
+
+- In Free plan users can only have two members per room and can send only 20 messages per room.
+- ![imgonline-com-ua-twotoone-xqi0IpHkvs](https://github.com/deepak814795/saas-app-chat/assets/91387970/f9528847-90cc-454b-8d31-c6e3e5db53f6)
 
 **Stripe Payment to Purchase Pro Plan**
 - **Test Card Number**: 4242 4242 4242 4242
@@ -54,13 +57,13 @@ Break down language barriers and connect with people from around the world. Our 
 - **CVC**: Any 3-digit number
 - Please note that this is a test card number provided by Stripe for testing purposes. It will simulate a successful payment.
 - In the current development phase, our Stripe integration is in test mode. In this mode, Stripe accepts payments for addresses outside India for testing purposes.
-![Screenshot (889)](https://github.com/deepak814795/saas-app-chat/assets/91387970/2fe99f24-8b22-44d1-bcae-c41b27108048)
+- ![Screenshot (889)](https://github.com/deepak814795/saas-app-chat/assets/91387970/2fe99f24-8b22-44d1-bcae-c41b27108048)
 
 **Add user to chat and get a sharable link**
-![Screenshot (891)](https://github.com/deepak814795/saas-app-chat/assets/91387970/45716422-81c2-4a73-a873-f77e9962b910)
+- ![Screenshot (891)](https://github.com/deepak814795/saas-app-chat/assets/91387970/45716422-81c2-4a73-a873-f77e9962b910)
 
 **Chat**
-![new](https://github.com/deepak814795/saas-app-chat/assets/91387970/f79a4569-f964-45ba-9756-adfb5a9301ab)
+- ![new](https://github.com/deepak814795/saas-app-chat/assets/91387970/f79a4569-f964-45ba-9756-adfb5a9301ab)
 
 ## Thank you for visiting! If you have any questions or suggestions, feel free to contact!!
 
