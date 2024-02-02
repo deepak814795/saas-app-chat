@@ -5,6 +5,10 @@
 
 Welcome to our SaaS chat app developed using Next.js and TypeScript, bringing global communication to the next level with real-time translation powered by Google Cloud Artificial Intelligence services. The app operates on a tiered subscription model, providing both free and pro plans tailored to users' needs. Stripe integration is employed for seamless subscription handling.
 
+### Problem It Solves
+
+In a world where global communication is essential, our app tackles a significant challenge – the language barrier. Moving to a new place or country can be daunting, especially when faced with unfamiliar local languages. Our app provides a transformative solution with its real-time translation feature and enabling seamless communication.The unique aspect of our app lies in its two-way translation – ensuring that whatever is said in one language is instantly translated back to the user's preferred language.
+
 ## Features
 
 - **Real-Time Translation**: Seamlessly translate conversations in real-time to enhance global communication.
